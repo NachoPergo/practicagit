@@ -3,3 +3,5 @@ git remote add origin https://github.com/NachoPergo/practicagit.git
 git add nombre del archivo
 git commit -m 'comentario'
 git push origin master
+
+1
